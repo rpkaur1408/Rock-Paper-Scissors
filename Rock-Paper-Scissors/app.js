@@ -1,6 +1,6 @@
 let userscore = 0;
 let compscore = 0;
-
+//Adding a comment
 const choices = document.querySelectorAll(".choice");
 const mssg = document.querySelector("#msg");
 
